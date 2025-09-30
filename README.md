@@ -226,7 +226,6 @@ Content-Type: application/json
 | descricao | VARCHAR(500) | Descrição do produto |
 | console | VARCHAR(100) | Console/plataforma |
 | preco | DECIMAL(10,2) | Preço do produto |
-| foto | VARCHAR(255) | URL da imagem |
 | categoriaId | INT | Chave estrangeira (categoria) |
 
 ---
